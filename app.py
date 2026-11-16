@@ -14,7 +14,7 @@ PAGE = """<!doctype html>
   td { padding: .3rem 1rem .3rem 0; }
 </style></head>
 <body>
-  <header><h1>Legeni WebApp</h1><p>Version {{ version }}</p></header>
+  <header><h1>Legeni WebApp – B3</h1><p>Version {{ version }}</p></header>
   <main><table>
     <tr><td>Environnement</td><td><b>{{ env }}</b></td></tr>
     <tr><td>Servi par (hostname)</td><td><b>{{ hostname }}</b></td></tr>
